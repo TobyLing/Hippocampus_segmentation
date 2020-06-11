@@ -1,4 +1,4 @@
-# Udacity_healthcare
+# Hippocampus segmentation for size calculation
 
 This project is about the segmentation of the hippocampus posterior and anterior parts on images. 
 
