@@ -1,6 +1,6 @@
 # Hippocampus segmentation for size calculation
 
-This project is about the segmentation of the hippocampus posterior and anterior parts on images. 
+This project is about the segmentation of the hippocampus posterior and anterior parts on MRI images. 
 
 > The data is contained into the folder TrainingSet. 
 
